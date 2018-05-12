@@ -1,0 +1,31 @@
+_repo: A-Classified-Catalogue-of-Selected-Works-Published-by-George-Bell-and-SonsNovember-1892_36960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: George Bell & Sons
+    aliases:
+    - G. Bell & Sons
+    - Bell & Sons
+    - George Bell and Sons
+    gutenberg_agent_id: '38353'
+    url: http://www.gutenberg.org/2009/agents/38353
+description: ''
+gutenberg_issued: '2011-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'George Bell & Sons -- Catalogs'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcc 'Z'
+title: 'A Classified Catalogue of Selected Works Published by George Bell and Sons
+
+  November, 1892'
+url: http://www.gutenberg.org/ebooks/36960
